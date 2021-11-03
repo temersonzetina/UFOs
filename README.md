@@ -6,11 +6,11 @@ The purpose of this project was to create a webpage that filters information abo
 ### Results
 Users can insert any combination of date, city, state, country, and/or shape to observe results in the table of sighting data.
 
-<clean input search here>
+![Clean filters](https://github.com/temersonzetina/UFOs/blob/main/static/images/empty.filters.png)
 
 Filtering the table does not require that all inputs are completed; users can elect to be as broad or specific as they prefer. Note the example below, which filters results for just two inputs:
 
-<image here>
+![Two filters](https://github.com/temersonzetina/UFOs/blob/main/static/images/two.filters.png)
 
 ### Summary
 Though the functionality of the webpage is reliable, the information available is limited. Sighting data describes incidents strictly from US locations in the year 2010. Presumably, there are far more recorded UFO sightings to learn about. Several recommendations for page improvements include to -
